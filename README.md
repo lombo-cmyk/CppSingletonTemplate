@@ -1,2 +1,2 @@
 # CppSingletonTemplate
-Repository with simple Singleton template used by other projects.
+Repository with simple Singleton component template used by other projects.
